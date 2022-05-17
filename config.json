@@ -1,5 +1,9 @@
 {
-	"ip":"3rdpixel.aternos.me",
-	"port": "20472",
-	"name": "Mod-Bot"
+	"ip":"RyBull.aternos.me",
+	"port": 13380,
+	"name": "BOT",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register Koi87K",
+	"login-cmd":"/login Koi87K"
 }
